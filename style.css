@@ -9,22 +9,19 @@
 }
 
 .nav{
+    background-color: #808080;
+    height: 100px;
     display: flex;
-    width: 100vw;
-    margin: 5px;
+    margin: 10px;
 }
 
 .navLeft{
-    width: 35vw;
     height: 100px;
-    margin: 5px;
     background-color: #4277bd;
 }
 
 .navRight{
     background-color: #808080;
-    width: 60vw;
-    height: 100px;
     margin: 5px;
 }
 
@@ -37,10 +34,11 @@
 .featureSection{
     height: 40vh;
     margin: 10px;
-    background-color: #505050;
     display: flex;
 }
 
 .features{
-    
+    width: 33%;
+    background-color: #90afd8;
+    margin: 0 5px;
 }
